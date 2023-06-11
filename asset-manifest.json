@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Expense-Calculator/static/css/main.734566ce.css",
+    "main.js": "/React-Expense-Calculator/static/js/main.c7c5d571.js",
+    "index.html": "/React-Expense-Calculator/index.html",
+    "main.734566ce.css.map": "/React-Expense-Calculator/static/css/main.734566ce.css.map",
+    "main.c7c5d571.js.map": "/React-Expense-Calculator/static/js/main.c7c5d571.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.734566ce.css",
+    "static/js/main.c7c5d571.js"
+  ]
+}
